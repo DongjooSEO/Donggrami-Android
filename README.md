@@ -1,2 +1,2 @@
-# Donggrami-Server
-Server part of team Donggrami
+# Donggrami-Android
+Android part of team Donggrami
